@@ -1,0 +1,4 @@
+enum UserRigth {
+  ADMIN,
+  USER
+}
